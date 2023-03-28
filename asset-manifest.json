@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7ac3c02b.css",
-    "main.js": "/static/js/main.f472ab00.js",
+    "main.js": "/static/js/main.2d350749.js",
     "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
+    "static/media/Uni_EM_Water_2.png": "/static/media/Uni_EM_Water_2.1d029f326eb000411bd0.png",
+    "static/media/ai_intelligent_sw.PNG": "/static/media/ai_intelligent_sw.a7dd4b2c9fb825048790.PNG",
     "index.html": "/index.html",
     "main.7ac3c02b.css.map": "/static/css/main.7ac3c02b.css.map",
-    "main.f472ab00.js.map": "/static/js/main.f472ab00.js.map",
+    "main.2d350749.js.map": "/static/js/main.2d350749.js.map",
     "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7ac3c02b.css",
-    "static/js/main.f472ab00.js"
+    "static/js/main.2d350749.js"
   ]
 }
